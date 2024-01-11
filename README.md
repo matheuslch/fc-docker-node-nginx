@@ -9,5 +9,6 @@ O retorno da aplicação node.js para o nginx deverá ser:
 # Como executar
 
 1. Faça o clone do projeto
-2. Acesse a pasta onde o projeto se encontra
-3. Execute com **docker-compose up -d**
+2. Acesse a pasta onde o projeto foi clonado
+3. Execute **docker-compose up -d**
+4. No navegador acesse http://localhost:8080/
